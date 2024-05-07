@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Filipe Sousa 👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sousafilipe_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sousafilp.dev@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 ![sousafilp GitHub stats](https://github-readme-stats.vercel.app/api?username=sousafilp&show_icons=true&theme=dark)
 
